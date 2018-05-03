@@ -1,0 +1,2 @@
+For the Neural Network, it performs better on the training set when the earlier years are excluded. Specifically, removing 2008-2010. 
+This is due to the much higher values and variance during those years compared to the training set.
